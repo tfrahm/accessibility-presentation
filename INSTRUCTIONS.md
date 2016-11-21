@@ -45,6 +45,12 @@ All you need to do is run Pandoc, as follows, on your markdown source file, once
 
 This will give you the HTML5 you can work with in polishing your presentation. 
 
+I've also included a script for you.  You can modify this as you see fit.  For now, run it like this, with the **input filename sans extension** as the first argument:
+
+```bash
+./build-presentation.sh example
+```
+
 # Add audio
 
 Once you have the HTML5 file for your presentation, you will need to add audio. 
