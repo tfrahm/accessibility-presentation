@@ -23,6 +23,13 @@ blah blah
 Stuff to say...
 </aside>
 
+# Content Linearization
+blah blah
+
+<aside class="notes">
+Stuff to say...
+</aside>
+
 # Web Development
 ARIA
 blah blah
@@ -31,7 +38,21 @@ blah blah
 Stuff to say...
 </aside>
 
-# Using a Screen Reader
+# This is what a screen reader sounds like.
+blah blah
+
+<aside class="notes">
+Stuff to say...
+</aside>
+
+# Why is this important?
+blah blah
+
+<aside class="notes">
+Stuff to say...
+</aside>
+
+# Takeaways
 blah blah
 
 <aside class="notes">
