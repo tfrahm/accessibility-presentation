@@ -2,11 +2,9 @@
 % Tabitha Frahm & Jaffa Panken
 % December 4th, 2016
 
-<aside class="notes">
-My name is Tabitha --
-And My name is Jaffa --
-And today we are going to talk to you about Accessibility.
-</aside>
+<!---My name is Tabitha 
+And My name is Jaffa 
+And today we are going to talk to you about Accessibility.--->
 
 # Accessibility
 
@@ -16,8 +14,8 @@ But the things we take for granted aren’t always so easy for everyone else.
 Can you imagine what it would be like to navigate the web if you couldn’t see it?
 </aside>
 
-# “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
-- Tim Berners-Lee
+# Tim Berners-Lee:
+“The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 
 <aside class="notes">
 Tim Berners-Lee, W3C Director and inventor of the World Wide Web, once said
@@ -99,11 +97,8 @@ It is my lady, O, it is my love!
 O, that she knew she were!
 </aside>
 
-#...and this is what a screen reader sounds like for experienced users. 
+# ...and this is what a screen reader sounds like for experienced users. 
 (300 wpm)
-
-# Why is this important?
-blah blah
 
 <aside class="notes">
 But, soft! what light through yonder window breaks?
