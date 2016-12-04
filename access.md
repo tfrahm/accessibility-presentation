@@ -130,7 +130,8 @@ Good coding practices facilitate accessible websites.
 An accessible website can be used by EVERYONE.
 </aside>
 
-# Questions?
+# Thank you!
+Any questions?
 
 <aside class="notes">
 Thanks for listening! Any questions?
