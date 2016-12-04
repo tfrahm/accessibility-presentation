@@ -82,7 +82,6 @@ them more understandable to assistive technology softwares, like screen readers.
 
 
 # This is what a screen reader sounds like at default speed. 
-(180 wpm)
 
 <aside class="notes">
 But, soft! what light through yonder window breaks?
@@ -98,7 +97,6 @@ O, that she knew she were!
 </aside>
 
 # ...and this is what a screen reader sounds like for experienced users. 
-(300 wpm)
 
 <aside class="notes">
 But, soft! what light through yonder window breaks?
