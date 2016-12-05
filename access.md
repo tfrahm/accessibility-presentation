@@ -39,7 +39,7 @@ Screen readers are software applications that convert text into synthesized spee
 allowing blind and visually impaired users to interact with computers and the web.
 </aside>
 
-# Interacting with Websites
+# Interacting with Websites {data-background="HER.jpg"}
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
