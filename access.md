@@ -59,7 +59,7 @@ Therefore, the design of the code must be technically valid and organized in a w
 <img src=”http://quincyquarry.com/wp-content/uploads/2015/04/crazy-eyes-cat.jpg” alt=”This is a picture of a cat WITH CRAZY EYES.”>
 ```
 
-<img src=”http://quincyquarry.com/wp-content/uploads/2015/04/crazy-eyes-cat.jpg” alt=”This is a picture of a cat WITH CRAZY EYES.”>
+<img src="/images/crazy-eyes-cat.jpg">
 
 <aside class="notes">
 When you are creating and coding your own website, there are several ways to make
