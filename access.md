@@ -2,7 +2,7 @@
 % Tabitha Frahm & Jaffa Panken
 % December 4th, 2016
 
-# {data-background-color="2D118a" data-audio-src="audio/02-introductionjp.ogg"}
+# Accessibility {data-background-color="2D118a" data-audio-src="audio/02-introductionjp.ogg"}
 
 <aside class="notes">
 The internet is essential to our daily lives. We use it to do just about everything. 
