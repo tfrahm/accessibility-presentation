@@ -2,11 +2,7 @@
 % Tabitha Frahm & Jaffa Panken
 % December 4th, 2016
 
-<!---My name is Tabitha 
-And My name is Jaffa 
-And today we are going to talk to you about Accessibility.--->
-
-# Accessibility
+# Accessibility {data-audio-src="audio/02-introductionjp.ogg"}
 
 <aside class="notes">
 The internet is essential to our daily lives. We use it to do just about everything. 
@@ -14,7 +10,7 @@ But the things we take for granted aren’t always so easy for everyone else.
 Can you imagine what it would be like to navigate the web if you couldn’t see it?
 </aside>
 
-# Tim Berners-Lee {data-background-image="images/tim.jpg" opacity="0.2;"}
+# Tim Berners-Lee {data-background-image="images/tim.jpg" data-audio-src="audio/T3.ogg"}
 <blockquote>
 “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 </blockquote>
@@ -24,7 +20,7 @@ Tim Berners-Lee, W3C Director and inventor of the World Wide Web, once said
 "The power of the Web is in its universality. Access by everyone, regardless of disability, is an essential aspect.”
 </aside>
 
-# What is accessibility?
+# What is accessibility? {data-audio-src="audio/03-whatisjp.ogg"}
 
 <aside class="notes">
 Dictionary.com defines ACCESSIBLE as “easy to approach, reach, enter, speak with,
@@ -32,14 +28,14 @@ or use.” In the context of Information Technology, web accessibility refers to
 design of websites for people with disabilities, especially via assistive technology, like screen readers.
 </aside>
 
-# Screen Readers
+# Screen Readers {data-audio-src="audio/T4.ogg"}
 
 <aside class="notes">
 Screen readers are software applications that convert text into synthesized speech,
 allowing blind and visually impaired users to interact with computers and the web.
 </aside>
 
-# Interacting with Websites {data-background-image="images/HER.jpg"}
+# Interacting with Websites {data-background-image="images/HER.jpg" data-audio-src="audio/04interactingjp.ogg"}
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
@@ -49,7 +45,7 @@ order of the HTML coding as it is presented to their screen-reading software.
 </aside>
 
 
-# Content Linearization {data-background-image="images/contentlinearization.jpg"}
+# Content Linearization {data-background-image="images/contentlinearization.jpg" data-audio-src="audio/T5.ogg"}
 ONE
 LINE
 AT
@@ -61,7 +57,7 @@ This means that the audio interface can only interpret one line of HTML code at 
 Therefore, the design of the code must be technically valid and organized in a way that makes sense to human ears.
 </aside>
 
-# Web Development
+# Web Development {data-audio-src="audio/05-webdevelopmentjp.ogg"}
 
 ```
 <img src="images/crazy-eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES.">
@@ -75,7 +71,7 @@ it more accessible to visually impaired users. You can include alt-text for imag
 ensure sufficient color contrast, and use page elements correctly.
 </aside>
 
-# ARIA
+# ARIA {data-audio-src="audio/T6.ogg"}
 
 Example ARIA code:
 
@@ -92,7 +88,7 @@ instructions for how to structure the semantics of HTML elements in order to mak
 them more understandable to assistive technology softwares, like screen readers.”
 </aside>
 
-# <small>This is what a screen reader sounds like at default speed.</small> 
+# <small>This is what a screen reader sounds like at default speed.</small> {data-audio-src="audio/SR1.ogg"}
 
 <iframe src="//giphy.com/embed/SqljaSrtrNoOY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-SqljaSrtrNoOY">via GIPHY</a></p>
 
@@ -109,7 +105,7 @@ It is my lady, O, it is my love!
 O, that she knew she were!
 </aside>
 
-#  <small>...and this is what a screen reader sounds like for experienced users.</small> 
+#  <small>...and this is what a screen reader sounds like for experienced users.</small> {data-audio-src="audio/SR2.ogg"}
 
 <iframe src="//giphy.com/embed/2XOrU3nAlnSo0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-2XOrU3nAlnSo0">via GIPHY</a></p>
 
@@ -126,7 +122,7 @@ It is my lady, O, it is my love!
 O, that she knew she were!
 </aside>
 
-# Why is this important?
+# Why is this important? {data-audio-src="audio/06-importancejp.ogg"}
 
 <aside class="notes">
 Coding with accessibility in mind is important because it allows the blind and 
@@ -135,7 +131,7 @@ connecting and communicating with others in everyday life - BUT the visually
 impaired cannot participate unless web developers design accessible websites.
 </aside>
 
-# Take-aways
+# Take-aways {data-audio-src="audio/T7.ogg"}
 
 <img src="images/take-away.jpg">
 
@@ -148,7 +144,7 @@ The more accessible your website, the greater the amount of potential users.
 Accessibility makes things better for EVERYONE.
 </aside>
 
-# {data-background-image="images/q-and-a.jpg"}
+# {data-background-image="images/q-and-a.jpg" data-audio-src="audio/07questionsjp.ogg"}
 
 <aside class="notes">
 Thanks for listening! Any questions?
