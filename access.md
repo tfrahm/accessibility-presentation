@@ -14,7 +14,7 @@ But the things we take for granted aren’t always so easy for everyone else.
 Can you imagine what it would be like to navigate the web if you couldn’t see it?
 </aside>
 
-# <small>Tim Berners-Lee</small> {data-background-image="images/tim.jpg" opacity="0.2;"}
+# Tim Berners-Lee {data-background-image="images/tim.jpg" opacity="0.2;"}
 <blockquote>
 “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 </blockquote>
