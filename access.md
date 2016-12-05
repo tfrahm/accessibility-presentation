@@ -62,7 +62,7 @@ Therefore, the design of the code must be technically valid and organized in a w
 eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES.">
 ```
 
-<img src="images/crazy-eyes-cat.jpg" style ="height:270px;width:300px">
+<img src="images/crazy-eyes-cat.jpg" style ="height:405px;width:450px">
 
 <aside class="notes">
 When you are creating and coding your own website, there are several ways to make
