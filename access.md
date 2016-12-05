@@ -35,7 +35,7 @@ Screen readers are software applications that convert text into synthesized spee
 allowing blind and visually impaired users to interact with computers and the web.
 </aside>
 
-# Interacting with Websites {data-background-image="images/HER.jpg" data-audio-src="audio/04interactingjp.ogg"}
+# Interacting with Websites {data-background-image="images/HER.jpg" data-audio-src="audio/04-interactingjp.ogg"}
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
@@ -144,7 +144,7 @@ The more accessible your website, the greater the amount of potential users.
 Accessibility makes things better for EVERYONE.
 </aside>
 
-# {data-background-image="images/q-and-a.jpg" data-audio-src="audio/07questionsjp.ogg"}
+# {data-background-image="images/q-and-a.jpg" data-audio-src="audio/07-questionsjp.ogg"}
 
 <aside class="notes">
 Thanks for listening! Any questions?
