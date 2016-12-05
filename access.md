@@ -15,7 +15,9 @@ Can you imagine what it would be like to navigate the web if you couldn’t see 
 </aside>
 
 # Tim Berners-Lee:
+<blockquote>
 “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
+</blockquote>
 
 <aside class="notes">
 Tim Berners-Lee, W3C Director and inventor of the World Wide Web, once said
