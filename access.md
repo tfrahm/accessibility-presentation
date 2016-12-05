@@ -2,7 +2,7 @@
 % Tabitha Frahm & Jaffa Panken
 % December 4th, 2016
 
-# Accessibility {data-background-color="2D118a" data-audio-src="audio/02-accessibilityjp.ogg"}
+# Accessibility {data-audio-src="audio/02-accessibilityjp.ogg"}
 
 <aside class="notes">
 The internet is essential to our daily lives. We use it to do just about everything. 
@@ -46,11 +46,11 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization {data-background-image="images/contentlinearization.jpg" data-audio-src="audio/T5.ogg"}
-ONE
-LINE
-AT
-A
-TIME.
+<p class="fragment" data-fragment-index="1">ONE</p>
+<p class="fragment" data-fragment-index="2">LINE</p>
+<p class="fragment" data-fragment-index="3">AT</p>
+<p class="fragment" data-fragment-index="4">A</p>
+<p class="fragment" data-fragment-index="5">TIME.</p>
 
 <aside class="notes">
 This means that the audio interface can only interpret one line of HTML code at a time.
