@@ -40,8 +40,7 @@ allowing blind and visually impaired users to interact with computers and the we
 </aside>
 
 <section data-background-image="/images/HER.jpg">
-
-# Interacting with affgWebsites
+# Interacting with Websites
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
@@ -49,7 +48,6 @@ websites. Sighted people can see the entire page at once, picking up on visual c
 from the styling and content of the webpage. Visually impaired people rely on the 
 order of the HTML coding as it is presented to their screen-reading software.
 </aside>
-
 </section>
 
 # Content Linearization
