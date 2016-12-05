@@ -58,7 +58,7 @@ Therefore, the design of the code must be technically valid and organized in a w
 # Web Development
 
 ```
-<img src="http://quincyquarry.com/wp-content/uploads/2015/04/crazy-eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES.">
+<img src="images/crazy-eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES.">
 ```
 
 <img src="images/crazy-eyes-cat.jpg" style ="height:405px;width:450px">
