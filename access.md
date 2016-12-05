@@ -130,6 +130,8 @@ impaired cannot participate unless web developers design accessible websites.
 
 # Takeaways
 
+<img src="images/take-away.jpg">
+
 <aside class="notes">
 Assistive technologies like screen readers help blind and visually impaired users interact with the web.
 Good coding practices facilitate accessible websites.
