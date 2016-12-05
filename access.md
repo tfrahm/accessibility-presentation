@@ -50,6 +50,8 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization
+* ONE line
+* at a time
 
 <aside class="notes">
 This means that the audio interface can only interpret one line of HTML code at a time.
