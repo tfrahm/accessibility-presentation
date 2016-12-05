@@ -50,7 +50,7 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization
-ONE line
+One line
 at a time.
 
 <aside class="notes">
