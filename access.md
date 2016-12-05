@@ -128,7 +128,7 @@ connecting and communicating with others in everyday life - BUT the visually
 impaired cannot participate unless web developers design accessible websites.
 </aside>
 
-# Takeaways
+# Take-aways
 
 <img src="images/take-away.jpg">
 
