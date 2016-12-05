@@ -46,11 +46,11 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization {data-background-image="images/contentlinearization.jpg" data-audio-src="audio/T5.ogg"}
-<p class="fragment" data-fragment-index="1">ONE</p>
-<p class="fragment" data-fragment-index="2">LINE</p>
-<p class="fragment" data-fragment-index="3">AT</p>
-<p class="fragment" data-fragment-index="4">A</p>
-<p class="fragment" data-fragment-index="5">TIME.</p>
+<p class="fragment" data-fragment-index="1" style="color:#E36A01">ONE</p>
+<p class="fragment" data-fragment-index="2" style="color:#E36A01">LINE</p>
+<p class="fragment" data-fragment-index="3" style="color:#E36A01">AT</p>
+<p class="fragment" data-fragment-index="4" style="color:#E36A01">A</p>
+<p class="fragment" data-fragment-index="5" style="color:#E36A01">TIME.</p>
 
 <aside class="notes">
 This means that the audio interface can only interpret one line of HTML code at a time.
