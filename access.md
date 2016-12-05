@@ -55,7 +55,7 @@ This means that the audio interface can only interpret one line of HTML code at 
 Therefore, the design of the code must be technically valid and organized in a way that makes sense to human ears.
 </aside>
 
-# <small>Web Development</small>
+# Web Development
 
 ```
 <img src="http://quincyquarry.com/wp-content/uploads/2015/04/crazy-
