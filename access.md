@@ -39,7 +39,7 @@ Screen readers are software applications that convert text into synthesized spee
 allowing blind and visually impaired users to interact with computers and the web.
 </aside>
 
-# Interacting with Websites {data-background-image="/images/HER.jpg"}
+# Interacting with Websites {data-background-image="images/HER.jpg"}
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
@@ -50,8 +50,8 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization
-* ONE line
-* at a time
+ONE line
+at a time.
 
 <aside class="notes">
 This means that the audio interface can only interpret one line of HTML code at a time.
@@ -64,7 +64,7 @@ Therefore, the design of the code must be technically valid and organized in a w
 <img src="images/crazy-eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES.">
 ```
 
-<img src="images/crazy-eyes-cat.jpg" style ="height:405px;width:450px">
+<img src="images/crazy-eyes-cat.jpg" alt="This is a picture of a cat WITH CRAZY EYES." style ="height:405px;width:450px">
 
 <aside class="notes">
 When you are creating and coding your own website, there are several ways to make
@@ -73,6 +73,8 @@ ensure sufficient color contrast, and use page elements correctly.
 </aside>
 
 # ARIA
+
+Example ARIA code:
 
 ```
 <div id="header" role="banner">
@@ -133,6 +135,8 @@ impaired cannot participate unless web developers design accessible websites.
 # Take-aways
 
 <img src="images/take-away.jpg">
+
+Sharing is caring.
 
 <aside class="notes">
 Assistive technologies like screen readers help blind and visually impaired users interact with the web.
