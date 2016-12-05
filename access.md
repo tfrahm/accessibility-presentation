@@ -148,10 +148,7 @@ The more accessible your website, the greater the amount of potential users.
 Accessibility makes things better for EVERYONE.
 </aside>
 
-# Thank you!
-Any questions?
-
-<img src="images/q-qand-a.jpg"?
+# {data-background-image="images/q-and-a.jpg"}
 
 <aside class="notes">
 Thanks for listening! Any questions?
