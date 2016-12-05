@@ -39,7 +39,9 @@ Screen readers are software applications that convert text into synthesized spee
 allowing blind and visually impaired users to interact with computers and the web.
 </aside>
 
-# Interacting with Websites {data-background="/images/HER.jpg"}
+<section data-background-image="/images/HER.jpg">
+
+# Interacting with affgWebsites
 
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
@@ -47,6 +49,8 @@ websites. Sighted people can see the entire page at once, picking up on visual c
 from the styling and content of the webpage. Visually impaired people rely on the 
 order of the HTML coding as it is presented to their screen-reading software.
 </aside>
+
+</section>
 
 # Content Linearization
 
@@ -134,7 +138,8 @@ impaired cannot participate unless web developers design accessible websites.
 <aside class="notes">
 Assistive technologies like screen readers help blind and visually impaired users interact with the web.
 Good coding practices facilitate accessible websites.
-An accessible website can be used by EVERYONE.
+The more accessible your website, the greater the amount of potential users.
+Accessibility makes things better for EVERYONE.
 </aside>
 
 # Thank you!
