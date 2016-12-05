@@ -82,8 +82,9 @@ instructions for how to structure the semantics of HTML elements in order to mak
 them more understandable to assistive technology softwares, like screen readers.”
 </aside>
 
-
 # This is what a screen reader sounds like at default speed. 
+
+<iframe src="//giphy.com/embed/SqljaSrtrNoOY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-SqljaSrtrNoOY">via GIPHY</a></p>
 
 <aside class="notes">
 But, soft! what light through yonder window breaks?
@@ -99,6 +100,8 @@ O, that she knew she were!
 </aside>
 
 # ...and this is what a screen reader sounds like for experienced users. 
+
+<iframe src="//giphy.com/embed/2XOrU3nAlnSo0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-2XOrU3nAlnSo0">via GIPHY</a></p>
 
 <aside class="notes">
 But, soft! what light through yonder window breaks?
