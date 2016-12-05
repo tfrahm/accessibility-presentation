@@ -41,8 +41,6 @@ allowing blind and visually impaired users to interact with computers and the we
 
 # Interacting with Websites
 
-<background-image="/images/HER.jpg">
-
 <aside class="notes">
 There’s a difference between how sighted and visually impaired users interact with
 websites. Sighted people can see the entire page at once, picking up on visual cues
@@ -86,7 +84,7 @@ instructions for how to structure the semantics of HTML elements in order to mak
 them more understandable to assistive technology softwares, like screen readers.”
 </aside>
 
-# This is what a screen reader sounds like at default speed. 
+# <small>This is what a screen reader sounds like at default speed.</small> 
 
 <iframe src="//giphy.com/embed/SqljaSrtrNoOY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-SqljaSrtrNoOY">via GIPHY</a></p>
 
@@ -103,7 +101,7 @@ It is my lady, O, it is my love!
 O, that she knew she were!
 </aside>
 
-# ...and this is what a screen reader sounds like for experienced users. 
+#  <small>...and this is what a screen reader sounds like for experienced users.</small> 
 
 <iframe src="//giphy.com/embed/2XOrU3nAlnSo0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/animated-leonardo-dicaprio-2XOrU3nAlnSo0">via GIPHY</a></p>
 
