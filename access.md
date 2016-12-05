@@ -14,7 +14,7 @@ But the things we take for granted aren’t always so easy for everyone else.
 Can you imagine what it would be like to navigate the web if you couldn’t see it?
 </aside>
 
-# Tim Berners-Lee:
+# Tim Berners-Lee: {data-background-image="images/tim.jpg"}
 <blockquote>
 “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 </blockquote>
@@ -49,7 +49,7 @@ order of the HTML coding as it is presented to their screen-reading software.
 </aside>
 
 
-# Content Linearization
+# Content Linearization {data-background-image="images/contentlinearization.jpg"}
 One line
 at a time.
 
