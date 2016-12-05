@@ -14,7 +14,7 @@ But the things we take for granted aren’t always so easy for everyone else.
 Can you imagine what it would be like to navigate the web if you couldn’t see it?
 </aside>
 
-# Tim Berners-Lee: {data-background-image="images/tim.jpg"}
+# Tim Berners-Lee: {data-background-image="images/tim.jpg" opacity="0.2;"}
 <blockquote>
 “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 </blockquote>
@@ -50,8 +50,11 @@ order of the HTML coding as it is presented to their screen-reading software.
 
 
 # Content Linearization {data-background-image="images/contentlinearization.jpg"}
-One line
-at a time.
+ONE
+LINE
+AT
+A
+TIME.
 
 <aside class="notes">
 This means that the audio interface can only interpret one line of HTML code at a time.
@@ -147,6 +150,8 @@ Accessibility makes things better for EVERYONE.
 
 # Thank you!
 Any questions?
+
+<img src="images/q-qand-a.jpg"?
 
 <aside class="notes">
 Thanks for listening! Any questions?
